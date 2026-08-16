@@ -7,18 +7,18 @@ Me chamo Gustavo Viana, tenho 19 anos e sou de Minas Gerais. Atualmente, estou c
 Tenho conhecimentos em desenvolvimento web utilizando **HTML, CSS, JavaScript e PHP**, além de lógica de programação em **Linguagem C**. Também possuo conhecimentos em **MySQL**, Git e GitHub, e estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.
 
 <p align="left">
-    <a href="https://github.com/SEU-USUARIO">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/SEU-USUARIO?tab=repositories&sort=stargazers">
+    <a href="https://github.com/gustavxviana?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU-USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/gustavxviana?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/gustavxviana?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/gustavxviana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -90,6 +90,13 @@ Tenho conhecimentos em desenvolvimento web utilizando **HTML, CSS, JavaScript e 
  width="30px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/> <img 
+ align="left" 
+ alt="Canva" 
+ title="Canva"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
 />
 
 <br/>
@@ -103,14 +110,14 @@ Tenho conhecimentos em desenvolvimento web utilizando **HTML, CSS, JavaScript e 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=gustavxviana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
    align="left" 
    alt="GitHub Stats" 
    height="200" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavxviana&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
 </p>
