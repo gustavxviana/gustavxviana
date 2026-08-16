@@ -1,10 +1,9 @@
 # 👨🏻‍💻 Gustavo Viana
 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Desenvolvedor Fullstack`**
 
 Me chamo Gustavo Viana, tenho 19 anos e sou de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniViçosa. Sou apaixonado por tecnologia e estou construindo minha trajetória na área de desenvolvimento de software.
-
-Tenho conhecimentos em desenvolvimento web utilizando **HTML, CSS, JavaScript e PHP**, além de lógica de programação em **Linguagem C**. Também possuo conhecimentos em **MySQL**, Git e GitHub, e estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.
+Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.
 
 <p align="left">
     <a href="https://github.com/gustavxviana?tab=repositories&sort=stargazers">
