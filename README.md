@@ -5,24 +5,8 @@
 Me chamo Gustavo Viana, tenho 19 anos e sou de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniViçosa. Sou apaixonado por tecnologia e estou construindo minha trajetória na área de desenvolvimento de software.
 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.
 
-<p align="left">
-    <a href="https://github.com/gustavxviana?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gustavxviana?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/gustavxviana?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gustavxviana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
