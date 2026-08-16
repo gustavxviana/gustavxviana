@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gustavo Viana
 
-**`Desenvolvedor Fullstack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gustavo Viana, tenho 19 anos e sou de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniViçosa. Sou apaixonado por tecnologia e estou construindo minha trajetória na área de desenvolvimento de software.
 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades através de projetos práticos.
